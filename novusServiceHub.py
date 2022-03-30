@@ -1,5 +1,4 @@
-#Novus Service Hub
-
+#Novus Service Hub :
 class ServiceHub:
     def __init__(self, listHubVehicles, listOwnedVehicles):
         self.vehicles = listHubVehicles
